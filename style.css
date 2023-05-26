@@ -5,15 +5,17 @@ h1{
 }
 button{
     background-color: rgb(53, 159, 162);
-    margin-left: 46%;
-    margin-bottom: 15px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 25px;
+    margin-top: 10px;
     padding: 35px;
-    border-radius: 48px;
+    border-radius: 40px;
     font-size: medium;
     cursor: pointer;
+
 }
 input{
-    margin-left: 40%;
     margin-top: 10px;
     border-color:rgb(53, 159, 162);
     background-color: rgb(204, 214, 225);
@@ -23,7 +25,6 @@ input{
     font-size: medium;
 }
 .submit{
-    margin-left: 43%;
     margin-top: 10px;
     padding: 15px;
     background-color: rgb(50, 78, 78);
@@ -33,4 +34,11 @@ input{
 }
 body{
     background-color: rgb(204, 214, 225);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+footer{
+    font-weight: bold;
+    margin-top: 21%;
 }
